@@ -15,5 +15,6 @@
 <button on:click={updateTitle}>button</button>
 <a href="/about">About</a>
 <a href="/service">service</a>
+<a href="/service">service</a>
 
 </div>
